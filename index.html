@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional Calculator</title>
+
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="assets/favicon.png">
+</head>
+
+<body class="dark">
+
+    <div class="container">
+
+        <div class="calculator">
+
+            <div class="header">
+
+                <h1>Calculator</h1>
+
+                <button id="theme-btn">🌙</button>
+
+            </div>
+
+            <div class="display">
+
+                <input
+                    type="text"
+                    id="expression"
+                    placeholder="0"
+                    readonly>
+
+                <input
+                    type="text"
+                    id="result"
+                    readonly>
+
+            </div>
+           <div class="buttons">
+
+            <button class="operator">AC</button>
+            <button class="operator">⌫</button>
+            <button class="operator">%</button>
+            <button class="operator">÷</button>
+            
+
+            <button class="operator" data-action="sqrt">√</button>
+            <button class="operator" data-action="square">x²</button>
+            <button class="operator" data-action="cube">x³</button>
+            <button class="operator" data-action="pi">π</button>
+            
+            <button>7</button>
+            <button>8</button>
+            <button>9</button>
+            <button class="operator">×</button>
+
+            <button>4</button>
+            <button>5</button>
+            <button>6</button>
+            <button class="operator">-</button>
+
+            <button>1</button>
+            <button>2</button>
+            <button>3</button>
+            <button class="operator">+</button>
+
+            <button>.</button>
+            <button>0</button>
+             <button class="equal">=</button>
+
+
+
+      </div>
+            
+
+     
+
+
+
+        </div>
+
+            <div class="history">
+
+             <h2>History</h2>
+
+             <button id="clear-history">
+             Clear History
+             </button>
+
+            <ul id="history-list">
+            <li>No calculations yet</li>
+            </ul>
+
+        </div>
+
+        
+        
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+     <footer>
+
+
+
+
+
+       Developed by Janagam Akhila © 2026
+
+
+
+       
+    </footer>
+
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
+
+
+
