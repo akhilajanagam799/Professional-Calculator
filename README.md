@@ -40,11 +40,11 @@ A modern, responsive, and feature-rich calculator built using **HTML, CSS, and J
 
 ---
 
-## 📸 Preview
+## 🎥 Demo Video
 
-| Demo |
-|------|
-| ![Demo](assets/calculator-demo.mp4) |
+Click below to watch the demo:
+
+[▶️ Watch Calculator Demo](assets/calculator-demo.mp4)
 
 ## 🎨 User Interface
 
