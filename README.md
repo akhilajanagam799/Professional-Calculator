@@ -42,10 +42,9 @@ A modern, responsive, and feature-rich calculator built using **HTML, CSS, and J
 
 ## 🎥 Demo Video
 
-Click below to watch the demo:
+Watch the project demo on YouTube:
 
-[▶️ Watch Calculator Demo](assets/calculator-demo.mp4)
-
+[▶️ Watch Demo Video](https://youtu.be/H_TDsQokr9s)
 ## 🎨 User Interface
 
 - Modern Glassmorphism Design
