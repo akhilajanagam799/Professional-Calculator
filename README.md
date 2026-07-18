@@ -10,7 +10,7 @@ A modern, responsive, and feature-rich calculator built using **HTML, CSS, and J
 
 | Dark Theme | Light Theme |
 |------------|-------------|
-| ![Dark Theme](screenshots/dark-mode.png) | ![Light Theme](screenshots/light-mode.png) |
+| ![Dark Theme](assets/dark-mode.png) | ![Light Theme](assets/light-mode.png) |
 
 ---
 
