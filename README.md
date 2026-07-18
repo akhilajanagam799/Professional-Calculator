@@ -8,9 +8,14 @@ A modern, responsive, and feature-rich calculator built using **HTML, CSS, and J
 
 > Add your project screenshots here after uploading them to GitHub.
 
-| Dark Theme | Light Theme | History |
+| Dark Theme | Light Theme | 
 |------------|-------------|
-| ![Dark Theme](assets/darkmode.png) | ![Light Theme](assets/whitemode.png) |   ![History](assets/history.png) |
+| ![Dark Theme](assets/darkmode.png) | ![Light Theme](assets/whitemode.png) |  
+
+
+ | History |
+ |---------|
+ |![History](history.png) |
 
 ---
 
