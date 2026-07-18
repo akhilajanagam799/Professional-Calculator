@@ -155,7 +155,7 @@ Through this project, I strengthened my understanding of:
 
 # 👨‍💻 Author
 
-**Janagam Akhila **
+Janagam Akhila 
 
 B.Tech Mathematics and Computing (2027)
 
