@@ -15,7 +15,7 @@ A modern, responsive, and feature-rich calculator built using **HTML, CSS, and J
 
  | History | Home |
  |---------|-------|
- |![History](assets/history.png) | ![Home](assets/home.png) |
+ |![History](assets/history.png) | ![Home](assets/home.png) | 
 
 ---
 
@@ -39,6 +39,12 @@ A modern, responsive, and feature-rich calculator built using **HTML, CSS, and J
 - Error Handling
 
 ---
+
+## 📸 Preview
+
+| Demo |
+|------|
+|![Demo](calculator-demo.mp4)|
 
 ## 🎨 User Interface
 
