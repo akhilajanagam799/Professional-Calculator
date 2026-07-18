@@ -44,7 +44,7 @@ A modern, responsive, and feature-rich calculator built using **HTML, CSS, and J
 
 | Demo |
 |------|
-|![Demo](calculator-demo.mp4)|
+|![Demo](assets/calculator-demo.mp4)|
 
 ## 🎨 User Interface
 
