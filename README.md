@@ -27,7 +27,11 @@ A modern, responsive, and feature-rich calculator built using **HTML, CSS, and J
 - Subtraction
 - Multiplication
 - Division
-- Percentage Calculation
+- remainder Calculation
+- squares Calculation
+- roots
+- cubes
+- Pie 
 - Decimal Numbers
 - Clear (C)
 - Backspace (⌫)
@@ -168,7 +172,9 @@ Aspiring Software Engineer
 
 GitHub: https://github.com/akhilajanagam799
 
-LinkedIn: https://www.linkedin.com/in/janagam-akhila-297b65307
+LinkedIn: https://www.linkedin.com/in/janagam-akhila-297b65307 
+
+Link : 
 
 ---
 
