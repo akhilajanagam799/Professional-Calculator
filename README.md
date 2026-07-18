@@ -15,7 +15,7 @@ A modern, responsive, and feature-rich calculator built using **HTML, CSS, and J
 
  | History |
  |---------|
- |![History](history.png) |
+ |![History](assets/history.png) |
 
 ---
 
